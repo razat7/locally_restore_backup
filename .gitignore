@@ -1,0 +1,27 @@
+# Python virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# PyInstaller build files
+build/
+dist/
+*.spec
+
+# IDE
+.vscode/
+.idea/
+
+# Environment and sensitive files
+.env
+.drop_password
+
+# Temporary files
+*.log
+*.tmp
+
+sql_backup_restore_tester copy.py
